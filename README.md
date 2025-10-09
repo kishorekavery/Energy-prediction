@@ -8,8 +8,7 @@ This project aims to predict energy consumption using a Long Short-Term Memory (
 energy-prediction-project
 ├── data
 │   └── energy_consumption.csv       # Synthetic energy consumption data
-├── notebooks
-│   └── LSTM Energy Prediction.ipynb  # Jupyter notebook for model implementation
+├──LSTM Energy Prediction.ipynb  # Jupyter notebook for model implementation
 ├── requirements.txt                  # Python dependencies
 └── README.md                          # Project documentation
 ```
